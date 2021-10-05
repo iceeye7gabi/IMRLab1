@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="244582758_416375426519280_5863791101847574290_n" size="1.000000 1.777778" />
+    <ImageTarget name="243066039_769664540511834_5439150055067585781_n" size="1.000000 1.333333" />
+    <ImageTarget name="243545482_3254018568163907_452958969545086514_n" size="1.000000 1.333333" />
+    <ImageTarget name="poza2" size="1.000000 1.598684" />
+    <ImageTarget name="poza1" size="1.000000 1.569444" />
+    <ImageTarget name="boruto" size="500.000000 727.765747" />
+    <ImageTarget name="163887507_474703177218514_285066976994925672_n" size="500.000000 666.666687" />
+  </Tracking>
+</QCARConfig>
